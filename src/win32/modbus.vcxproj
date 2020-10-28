@@ -253,6 +253,10 @@
   <ItemGroup>
     <ResourceCompile Include="modbus.rc" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\libmodbus 数据库.vsdx" />
+    <None Include="..\..\利用 libmodbus 开发应用程序基本流程.vsdx" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

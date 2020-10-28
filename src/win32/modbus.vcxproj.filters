@@ -59,4 +59,12 @@
       <Filter>Resource Files</Filter>
     </ResourceCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\libmodbus 数据库.vsdx">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\..\利用 libmodbus 开发应用程序基本流程.vsdx">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
 </Project>
